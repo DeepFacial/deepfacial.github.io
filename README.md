@@ -1,2 +1,2 @@
-# deepfacial.github.io
-deepfacial.github.io
+# DeepFacial
+DeepFacial
